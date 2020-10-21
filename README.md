@@ -1,2 +1,2 @@
 # website
-brantyukan.com personal website built with wordpress, hosted on gcp
+[brantyukan.com](https://brantyukan.com/) personal website built with wordpress, hosted on gcp
