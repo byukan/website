@@ -2,7 +2,7 @@
 [brantyukan.com](https://brantyukan.com/) personal website built with wordpress, hosted on gcp
 
 https://coding-sessions.com/free-virtual-machine-in-gcp/
-
+(part 3 of the guide requires modifying server files from the terminal, so make sure you want to venture into that)
 To get my domain name configured with the GCP VM Instance, I followed a guide that involves editing files in the terminal, so if you're comfortable doing that, you could try to host on GCP.
 this is the one I used and things worked:
 https://techtravelo.wordpress.com/2020/08/09/setting-up-custom-domain-with-google-cloud-compute-engine-instance/
