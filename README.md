@@ -3,7 +3,24 @@
 
 https://coding-sessions.com/free-virtual-machine-in-gcp/
 
+To get my domain name configured with the GCP VM Instance, I followed a guide that involves editing files in the terminal, so if you're comfortable doing that, you could try to host on GCP.
+https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/
+
+
+
+
 https://onepagezen.com/configure-contact-forms-wordpress-google-cloud/
+
+
+
+
+
+
+
+
+
+
+
 
 SEO for WordPress.com
 
