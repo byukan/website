@@ -4,6 +4,14 @@
 https://coding-sessions.com/free-virtual-machine-in-gcp/
 
 To get my domain name configured with the GCP VM Instance, I followed a guide that involves editing files in the terminal, so if you're comfortable doing that, you could try to host on GCP.
+this is the one I used and things worked:
+https://techtravelo.wordpress.com/2020/08/09/setting-up-custom-domain-with-google-cloud-compute-engine-instance/
+
+
+
+
+
+I didn't exactly use this one, but I read the info, I think...
 https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/
 
 
