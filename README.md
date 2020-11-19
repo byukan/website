@@ -66,7 +66,10 @@ Resources
     Comments in WordPress (Links to an external site.)
     Business blocks (Links to an external site.)
     Weather widget
-
+    
+https://wordpress.org/support/article/introduction-to-blogging/  
+https://wordpress.com/blog/2020/04/02/new-blocks-for-your-business/  
+https://www.theweather.com/widget/  
 
 
 
