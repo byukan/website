@@ -42,7 +42,7 @@ https://moz.com/beginners-guide-to-seo/on-page-seo#index (Links to an external s
 
 G.Mahoney.SEO.file.docxPreview the document
 
-
+use the Yoast plugin for SEO
 
 I'd want to optimize for the keyphrases:  Brant Yukan, NLP Consulting, Machine learning engineer, natural language processing deployment, data scientist, data science contractor.
 
