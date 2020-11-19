@@ -49,6 +49,9 @@ I'd want to optimize for the keyphrases:  Brant Yukan, NLP Consulting, Machine l
 
 
 
+
+
+
 Resources
 
     https://learn.wordpress.com/ (Links to an external site.) 
@@ -63,3 +66,29 @@ Resources
     Comments in WordPress (Links to an external site.)
     Business blocks (Links to an external site.)
     Weather widget
+
+
+
+
+Self Hosted
+
+    Self Hosted does not have a free option. WordPress.org does not offer Hosting.
+    Hosting Example Siteground (Links to an external site.)
+    You own your website and all its data. Your site will NOT be turned off because someone decides that it is against their terms of service (as long as you are not doing something illegal). You are in full control.
+    You can add free, paid, and custom WordPress plugins / apps (Links to an external site.) to your website.
+    Some plugins may be free.
+    You can use customize your website design as needed. You can add any free or paid WordPress theme (Links to an external site.) that you want. You can also create completely custom designs or modify anything that you want.
+    You can actually make money from your WordPress site (Links to an external site.) by running your own ads without sharing revenue with anyone.
+    You can use powerful tools like Google Analytics (Links to an external site.) for custom analytics and tracking.
+    You can use self-hosted WordPress to create an online store (Links to an external site.) to sell digital or physical products, accept credit card payments, and deliver / ship the goods directly from your website.
+    You can also create membership sites (Links to an external site.) and sell memberships for premium content, courses, etc and build an online community around your website.
+    You are responsible for updates and backups. 
+    Source: http://www.wpbeginner.com/beginners-guide/self-hosted-wordpress-org-vs-free-wordpress-com-infograph/ (Links to an external site.) 
+    
+    
+    
+    https://www.wpbeginner.com/plugins/5-best-wordpress-membership-plugins-compared/
+    
+    https://www.wpbeginner.com/wp-tutorials/how-to-start-an-online-store/
+    
+    https://www.wpbeginner.com/beginners-guide/make-money-online/
